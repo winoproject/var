@@ -10,7 +10,7 @@ local_manifest_branch="aex"
 lunch="brunch lineage_mido-user"
 
 # Build command
-build_command="make aex"
+build_command="make lineage"
 
 # Telegram Bot
 your_telegram_id="1592549955"
