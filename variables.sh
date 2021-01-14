@@ -1,16 +1,16 @@
 # Repo URLs
-rom_manifest_url="git://github.com/AospExtended/manifest.git"
-rom_manifest_branch="11.x"
+rom_manifest_url="https://github.com/LineageOS/android"
+rom_manifest_branch="lineage-18.1"
 
 # Local manifest (dt,vt,kt,dependencies will sync from here)
 local_manifest_url="https://github.com/Apon77/android_.repo_local_manifests"
 local_manifest_branch="aex"
 
 # Lunch device
-lunch="brunch aosp_mido-user"
+lunch="brunch lineage_mido-user"
 
 # Build command
 build_command="make aex"
 
 # Telegram Bot
-your_telegram_id="571213272"
+your_telegram_id="1592549955"
