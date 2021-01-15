@@ -13,4 +13,4 @@ lunch="brunch lineage_cheeseburger-user"
 build_command="build/envsetup.sh lunch lineage_cheeseburger-userdebug make bacon -j$(nproc --all) | tee log.txt"
 
 # Telegram Bot
-your_telegram_id="1592549955"
+your_telegram_id="1472563666"
