@@ -4,7 +4,7 @@ rom_manifest_branch="lineage-18.1"
 
 # Local manifest (dt,vt,kt,dependencies will sync from here)
 local_manifest_url="https://github.com/winoproject/android_.repo_local_manifests/blob/master/local_manifest.xml"
-local_manifest_branch="aex"
+local_manifest_branch="master"
 
 # Lunch device
 lunch="brunch lineage_cheeseburger-user"
