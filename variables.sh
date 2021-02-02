@@ -1,10 +1,11 @@
 # Repo URLs
 rom_manifest_url="https://github.com/Havoc-OS/android_manifest.git"
-rom_manifest_branch="eleven"
+rom_manifest_branch="Lineage"
 
 # Local manifest (dt,vt,kt,dependencies will sync from here)
 local_manifest_url="https://github.com/winoproject/android_.repo_local_manifests"
-local_manifest_branch="DhruvChhura-patch-1"
+local_manifest_branch="master"
+
 
 # Lunch device
 lunch="lunch havoc_lancelot-userdebug"
