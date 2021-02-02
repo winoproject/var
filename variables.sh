@@ -8,7 +8,7 @@ local_manifest_branch="Wino"
 
 
 # Lunch device
-lunch="lunch havoc_lancelot-userdebug"
+lunch="lunch Havoc_lancelot-userdebug"
 
 # Build command
 build_command="mka test-api-stubs-docs && mka bacon"
