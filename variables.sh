@@ -1,16 +1,16 @@
 # Repo URLs
-rom_manifest_url="https://github.com/LineageOS/android"
-rom_manifest_branch="lineage-18.1"
+rom_manifest_url="https://github.com/Havoc-OS/android_manifest.git"
+rom_manifest_branch="eleven"
 
 # Local manifest (dt,vt,kt,dependencies will sync from here)
-local_manifest_url="https://github.com/winoproject/android_.repo_local_manifests/blob/master/local_manifest.xml"
-local_manifest_branch="master"
+local_manifest_url="https://github.com/winoproject/android_.repo_local_manifests"
+local_manifest_branch="DhruvChhura-patch-1"
 
 # Lunch device
-lunch="brunch lineage_cheeseburger-user"
+lunch="lunch havoc_lancelot-userdebug"
 
 # Build command
-build_command="build/envsetup.sh lunch lineage_cheeseburger-userdebug make bacon -j$(nproc --all) | tee log.txt"
+build_command="mka bacon"
 
 # Telegram Bot
-your_telegram_id="1472563666"
+your_telegram_id="1367251045"
