@@ -11,7 +11,7 @@ local_manifest_branch="Wino"
 lunch="lunch havoc_lancelot-userdebug"
 
 # Build command
-build_command="mka api-stubs-docs && mka hiddenapi-lists-docs && mka system-api-stubs-docs && mka test-api-stubs-docs && mka bacon"
+build_command="mka test-api-stubs-docs && mka bacon"
 
 # Telegram Bot
 your_telegram_id="1472563666"
